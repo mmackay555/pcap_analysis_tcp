@@ -1,8 +1,6 @@
 /* EXTERNAL LIBRARIES USED */
 dpkt
 
-NOTE: Screenshot for ARP message is located on the assignment3_writeup.pdf document
-
 /* HOW TO RUN PROGRAM */
 1) Install dpkt on device, using pip using the command "pip install dpkt" in the Command Prompt.
 2) Open Command Prompt and change directory to where you extracted the .zip file, where the analysis_pcap_arp.py is located
